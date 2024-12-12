@@ -1,0 +1,40 @@
+
+# python interface
+ipython
+jupyter >= 1.0
+
+# Data visualisation
+matplotlib
+seaborn >= 0.12
+plotly
+graphviz
+networkx
+ipyleaflet
+
+# Data manipulation
+pandas >= 2.0
+pyarrow
+sqlalchemy >= 2.0
+jupysql
+scipy
+openpyxl
+xlwings
+xlrd
+lxml
+
+# Data modelling
+scikit-learn 
+statsmodels
+
+# Software development
+flask >= 2.0
+pytest
+sphinx
+selenium >= 3.0
+behave
+
+# Data security
+bcrypt
+
+
+
